@@ -1,4 +1,4 @@
-# Zen AI — Empowering Mental Resilience for the AI-Powered Entrepreneur
+# Zen AI — Empowering Mental Resilience for Entrepreneurs
 
 > Protecting minds, empowering futures.  
 > An empathetic, privacy-first AI mental health companion built for founders, creators, and professionals navigating the pressures of entrepreneurship.
@@ -31,9 +31,9 @@ Zen AI combines AI, encryption, and decentralized technology to create a secure 
 | Backend | Express.js, Groq SDK |
 | Database | MongoDB |
 | Auth | Clerk (Google Login + Web2/3 onboarding) |
-| Blockchain Integration | Thirdweb SDK — multi-chain (Ethereum, Polygon, TON, Solana, etc.) |
+| Blockchain Integration | Thirdweb SDK — multi-chain  |
 | AI Layer | Groq LLM API for empathetic conversation and report generation |
-| Hosting & Infra | Vercel (Frontend), Render/Fly.io (Backend) |
+
 
 ---
 
