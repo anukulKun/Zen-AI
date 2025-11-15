@@ -3,25 +3,21 @@
 > Protecting minds, empowering futures.  
 > An empathetic, privacy-first AI mental health companion built for founders, creators, and professionals navigating the pressures of entrepreneurship.
 
----
-
-## Objective
 
 ### Problem
 Entrepreneurs face chronic stress, burnout, and decision fatigue, yet traditional therapy remains expensive or inaccessible.  
 Zen AI bridges this gap using empathetic AI and evidence-based CBT techniques, empowering users to manage mental health proactively and securely.
+
 
 ### Audience
 - Entrepreneurs, founders, and freelancers managing high cognitive load  
 - Students and early professionals in demanding environments  
 - Individuals seeking affordable and secure mental wellness tools  
 
----
 
 ## Core Idea
 Zen AI combines AI, encryption, and decentralized technology to create a secure emotional intelligence layer for the next generation of digital entrepreneurs, protecting mental well-being while maintaining data autonomy.
 
----
 
 ## Tech Stack
 
@@ -34,8 +30,6 @@ Zen AI combines AI, encryption, and decentralized technology to create a secure 
 | Blockchain Integration | Thirdweb SDK — multi-chain  |
 | AI Layer | Groq LLM API for empathetic conversation and report generation |
 
-
----
 
 ## Key Features
 
@@ -57,7 +51,6 @@ End-to-end encryption, anonymized data, and optional blockchain-based identity t
 ### 6. Web2 and Web3 Accessibility
 Google login for new users and wallet-based login via Thirdweb for decentralized identity.
 
----
 
 ## Local Setup
 
