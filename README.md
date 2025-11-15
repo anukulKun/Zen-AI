@@ -1,7 +1,6 @@
 # Zen AI — Empowering Mental Resilience for Entrepreneurs
-
-> Protecting minds, empowering futures.  
-> An empathetic, privacy-first AI mental health companion built for founders, creators, and professionals navigating the pressures of entrepreneurship.
+Protecting minds, empowering futures.  
+An empathetic, privacy-first AI mental health companion built for founders, creators, and professionals navigating the pressures of entrepreneurship.
 
 
 ### Problem
